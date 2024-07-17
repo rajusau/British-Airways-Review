@@ -15,6 +15,8 @@ You can view the dashboard on Tableau Public [here](https://public.tableau.com/a
 
 - **Dashboard:**
   - Dashboard1.twbx
+<img width="800" alt="British Airways Reviews" src="https://github.com/user-attachments/assets/4d61c2c5-d2ca-4a65-8907-44c402090504">
+
 
 ### Project Structure
 - **Data Preparation:**
